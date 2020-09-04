@@ -1,0 +1,48 @@
+{
+  "name": "araknomecha-scrapper",
+  "version": "0.0.1",
+  "description": "A web scrapper made in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run build && node dist/index.js",
+    "build": "babel src -d dist",
+    "lint": "eslint .",
+    "test": "jest tests/**.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Markkop/araknomecha-scrapper.git"
+  },
+  "keywords": [
+    "nodejs",
+    "scrapper"
+  ],
+  "author": "Mark Kop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Markkop/araknomecha-scrapper/issues"
+  },
+  "homepage": "https://github.com/Markkop/araknomecha-scrapper#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.11.5",
+    "@babel/core": "^7.11.5",
+    "@babel/node": "^7.10.5",
+    "@babel/plugin-transform-regenerator": "^7.10.4",
+    "@babel/preset-env": "^7.11.5",
+    "@types/jest": "^26.0.13",
+    "babel-jest": "^26.3.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.8.1",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-config-standard-jsdoc": "^9.3.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsdoc": "^30.3.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
