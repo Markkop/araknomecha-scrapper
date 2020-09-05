@@ -15,7 +15,8 @@ module.exports = {
     'generator-star-spacing': 0,
     'no-new': 0,
     'jsdoc/require-returns-description': 0,
-    'jsdoc/require-property-description': 0
+    'jsdoc/require-property-description': 0,
+    'jsdoc/require-param-description': 0
   },
   overrides: [
     {
