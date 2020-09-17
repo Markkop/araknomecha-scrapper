@@ -17,7 +17,8 @@ async function getFiles () {
     const { data: recipes } = await axios.get(`${baseUrl}/${version}/recipes.json`)
     const { data: jobsItems } = await axios.get(`${baseUrl}/${version}/jobsItems.json`)
     const { data: items } = await axios.get(`${baseUrl}/${version}/items.json`)
-    const dataCollection = [{ jobs }, { ingredients }, { results }, { recipes }, { jobsItems }, { items }]
+    const { data: collectibleResources } = await axios.get(`${baseUrl}/${version}/collectibleResources.json`)
+    const dataCollection = [{ jobs }, { ingredients }, { results }, { recipes }, { jobsItems }, { items }, { collectibleResources }]
     dataCollection.forEach(data => {
       const dataName = Object.keys(data)[0]
       const dataValue = data[dataName]

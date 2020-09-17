@@ -1,10 +1,10 @@
-
-import ingredientsData from '../../data/raw/ingredients'
-import recipesData from '../../data/raw/recipes'
-import jobsData from '../../data/raw/jobs'
-import resultsData from '../../data/raw/results'
-import jobsItemsData from '../../data/raw/jobsItems'
-import itemsData from '../../data/raw/items'
+import ingredientsData from '../../../data/raw/ingredients'
+import recipesData from '../../../data/raw/recipes'
+import jobsData from '../../../data/raw/jobs'
+import resultsData from '../../../data/raw/results'
+import jobsItemsData from '../../../data/raw/jobsItems'
+import itemsData from '../../../data/raw/items'
+import collectibleResourcesData from '../../../data/raw/collectibleResources'
 import { storeData } from '../../helpers'
 
 /**
@@ -20,21 +20,37 @@ function mountRecipes () {
       }
       const ingredients = ingredientsData.filter(ingredient => ingredient.recipeId === recipe.id)
       const namedIngredients = ingredients.map(ingredient => {
-        const jobItem = jobsItemsData.find(jobItem => jobItem.definition.id === ingredient.itemId)
-        return {
-          ...ingredient,
-          title: jobItem.title
+        const ingredientId = ingredient.itemId
+        const jobItem = jobsItemsData.find(jobItem => jobItem.definition.id === ingredientId)
+        ingredient.title = jobItem.title
+        const item = itemsData.find(itemData => itemData.definition.item.id === ingredientId)
+        if (item) {
+          ingredient.rarity = item.definition.item.baseParameters.rarity
         }
+        const collectibleResource = collectibleResourcesData.find(resource => resource.collectItemId === ingredientId)
+        if (collectibleResource) {
+          ingredient.job = collectibleResource.skillId
+        } else {
+          const resultRecipe = resultsData.find(result => result.productedItemId === ingredientId)
+          if (resultRecipe) {
+            const resultRecipeId = resultRecipe.recipeId
+            const resultRecipeData = recipesData.find(recipe => recipe.id === resultRecipeId)
+            ingredient.job = resultRecipeData.categoryId
+          }
+        }
+        return ingredient
       })
       const result = resultsData.find(result => result.recipeId === recipe.id)
       let item = itemsData.find(itemData => itemData.definition.item.id === result.productedItemId)
       if (!item) {
         item = jobsItemsData.find(jobItem => jobItem.definition.id === result.productedItemId)
       }
+      const itemBaseParameters = (item.definition && item.definition.item && item.definition.item.baseParameters) || {}
       const namedResult = {
         ...result,
         title: item.title,
-        description: item.description || ''
+        description: item.description || '',
+        rarity: itemBaseParameters.rarity || ''
       }
       return {
         id: recipe.id,

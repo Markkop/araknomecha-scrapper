@@ -6,8 +6,8 @@
   "scripts": {
     "start": "npm run build && node dist/index.js",
     "scrap:subli": "npm run build && node dist/scrapSublimations.js",
-    "get:files": "npm run build && node dist/recipes/getFiles.js",
-    "save:recipes": "npm run build && node dist/recipes/mountRecipes.js",
+    "get:files": "npm run build && node dist/generators/recipes/getFiles.js",
+    "gen:recipes": "npm run build && node dist/generators/recipes/mountRecipes.js",
     "build": "babel src -d dist",
     "lint": "eslint .",
     "test": "jest tests/**.test.js"
