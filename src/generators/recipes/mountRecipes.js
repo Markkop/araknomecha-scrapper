@@ -63,8 +63,9 @@ function mountRecipes () {
         result: namedResult
       }
     })
-    storeData(mountedRecipes, 'data/generated/recipes.json')
-    console.log(`Successfully generated ${mountedRecipes.length} recipes`)
+    const recipesSortedByRarity = mountedRecipes.sort((recipeA, recipeB) => recipeB.result.rarity - recipeA.result.rarity)
+    storeData(recipesSortedByRarity, 'data/generated/recipes.json')
+    console.log(`Successfully generated ${recipesSortedByRarity.length} recipes`)
   } catch (error) {
     console.log(error)
   }
