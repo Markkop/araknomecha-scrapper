@@ -1,4 +1,5 @@
 import itemsData from '../../../data/raw/items'
+import recipesData from '../../../data/generated/recipes'
 import { storeData } from '../../helpers'
 import { parseEffect } from '../../parsers/parseEffect'
 import epic from '../../../data/raw/sublimations/epic.json'
@@ -16,6 +17,23 @@ const equipmentList = {
 }
 
 /**
+ * Parse slot numbers to text.
+ *
+ * @param {number[]} slotsArray
+ * @returns {string}
+ */
+function parseSlots (slotsArray) {
+  const slotMap = {
+    1: 'R',
+    2: 'G',
+    3: 'B'
+  }
+  return slotsArray.reduce((slots, slot) => {
+    return `${slots}${slotMap[slot]}`
+  }, '')
+}
+
+/**
  * Check if the given object has any truthy property.
  *
  * @param {object} obj
@@ -23,6 +41,54 @@ const equipmentList = {
  */
 function hasInfo (obj) {
   return Object.keys(obj).some(key => Boolean(obj[key]))
+}
+
+/**
+ * Parses sublimation source information to a single line of text.
+ *
+ * @param {object} sublimationData
+ * @returns {object}
+ */
+function parseSublimationSource (sublimationData) {
+  const langs = ['en', 'pt', 'fr', 'es']
+  const stelesWord = {
+    en: 'steles',
+    es: 'steles',
+    fr: 'steles',
+    pt: 'estelas'
+  }
+  const sources = {
+    en: [],
+    es: [],
+    fr: [],
+    pt: []
+  }
+  langs.forEach(lang => {
+    const monster = sublimationData.source.drop.monster
+    const steles = sublimationData.source.drop.steles
+    const stelesText = steles ? `(${steles} ${stelesWord[lang]})` : ''
+    if (hasInfo(monster)) {
+      sources[lang].push(`${monster[lang]} ${stelesText}`)
+    }
+    const chest = sublimationData.source.chest
+    if (hasInfo(chest)) {
+      sources[lang].push(chest[lang])
+    }
+    const craft = sublimationData.source.craft
+    if (hasInfo(craft)) {
+      const recipe = recipesData.find(recipe => recipe.id === craft.recipeId)
+      const job = recipe.job.title[lang]
+      const level = recipe.level
+      sources[lang].push(`${job} ${level} craft`)
+    }
+    const quest = sublimationData.source.quest
+    if (hasInfo(quest)) {
+      sources[lang].push(quest[lang])
+    }
+    sources[lang] = sources[lang].join(', ')
+  })
+
+  return sources
 }
 
 /**
@@ -34,8 +100,12 @@ function mountItems () {
     const itemDefinition = itemData.definition.item
     const itemLevel = itemDefinition.level
     const useParameters = itemDefinition.useParameters
-    const equipEffects = itemData.definition.equipEffects.map(equipEffect => parseEffect(equipEffect.effect, itemLevel))
-    const useEffects = itemData.definition.useEffects.map(useEffect => parseEffect(useEffect.effect, itemLevel))
+    const equipEffects = itemData.definition.equipEffects
+      .map(equipEffect => parseEffect(equipEffect.effect, itemLevel))
+      .filter(equipEffect => equipEffect.description)
+    const useEffects = itemData.definition.useEffects
+      .map(useEffect => parseEffect(useEffect.effect, itemLevel))
+      .filter(equipEffect => equipEffect.description)
 
     mappedItem.id = itemDefinition.id
     mappedItem.title = itemData.title
@@ -53,30 +123,6 @@ function mountItems () {
     mappedItem.itemSetId = itemDefinition.baseParameters.itemSetId
     mappedItem.rarity = itemDefinition.baseParameters.rarity
 
-    // Enrich sublimations information
-    const sublimation = sublimations.find(subli => subli.name.toLowerCase() === itemData.title.pt.toLowerCase().trim())
-    if (!sublimation && Array.isArray(itemDefinition.sublimationParameters && itemDefinition.sublimationParameters.slotColorPattern)) {
-      console.log('An item sublimation was not found in sublimation list:', { name: itemData.title.en, id: itemDefinition.id })
-    }
-
-    if (sublimation) {
-      mappedItem.sublimation = itemDefinition.sublimationParameters
-      mappedItem.sublimation.effects = sublimation.effects
-      mappedItem.sublimation.source = {}
-      if (hasInfo(sublimation.source.drop.monster)) {
-        mappedItem.sublimation.source.drop = sublimation.source.drop
-      }
-      if (hasInfo(sublimation.source.chest)) {
-        mappedItem.sublimation.source.chest = sublimation.source.chest
-      }
-      if (hasInfo(sublimation.source.craft)) {
-        mappedItem.sublimation.source.craft = sublimation.source.craft
-      }
-      if (hasInfo(sublimation.source.quest)) {
-        mappedItem.sublimation.source.quest = sublimation.source.quest
-      }
-    }
-
     // Enrich conditions information
     mappedItem.conditions = {}
     mappedItem.conditions.description = {}
@@ -92,6 +138,26 @@ function mountItems () {
         [lang]: equip.conditions.description[0]
       }
     })
+
+    // Enrich sublimations information
+    const sublimation = sublimations.find(subli => subli.name.toLowerCase() === itemData.title.pt.toLowerCase().trim())
+    if (!sublimation && Array.isArray(itemDefinition.sublimationParameters && itemDefinition.sublimationParameters.slotColorPattern)) {
+      console.log('A sublimation item was not found in sublimation list:', { name: itemData.title.en, id: itemDefinition.id })
+    }
+
+    if (sublimation) {
+      mappedItem.sublimation = {}
+      const slots = parseSlots(itemDefinition.sublimationParameters.slotColorPattern)
+      if (slots) {
+        mappedItem.sublimation.slots = slots
+      } else {
+        const { isEpic, isRelic } = itemDefinition.sublimationParameters
+        mappedItem.sublimation.slots = isEpic ? 'epic' : (isRelic ? 'relic' : '')
+      }
+      delete mappedItem.sublimation.slotColorPattern
+      mappedItem.sublimation.effects = sublimation.effects
+      mappedItem.sublimation.source = parseSublimationSource(sublimation)
+    }
     return mappedItem
   })
   storeData(mountedItems, 'data/generated/items.json')
