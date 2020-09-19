@@ -1,0 +1,2092 @@
+[
+  {
+    "slots": "RRR",
+    "name": "Ruína",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "10% de danos indiretos (danos infligidos pelo portador do estado fora do turno dele)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8080
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBB",
+    "name": "Devastação",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "1 de PW, -20 Vontade"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Josespinha (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GGG",
+    "name": "Assolação",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No início do combate: Todos os domínios e resistências: +10"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Sor'Hon, Senhor da Chama (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RRG",
+    "name": "Carnificina",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Quando os PV estão acima de 90%: 40 de domínio elementar"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Dragão de Cinzas (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RRB",
+    "name": "Cicatrização",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "10% dos PV (bônus sobre o modificador de PV)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Tanukui San (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBR",
+    "name": "Emboscada",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "5% dos danos infligidos aos alvos em contato"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Vertox, o Atemporal (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBG",
+    "name": "Evasão",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No início do combate: 10% de Parada (1 turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8081
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GGR",
+    "name": "Determinação",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-15% dos danos indiretos recebidos"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Rapiodo, o Infrequenciável (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GGB",
+    "name": "Tenacidade",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Em fim de turno, se o portador do estado estiver com pelo menos 2PA: 25 de resistência elementar (1 turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8082
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RGR",
+    "name": "Solidez",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Reduz os danos diretos recebidos superiores a 20% dos PV máx. em 400% do nível (uma vez por rodada)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8083
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBR",
+    "name": "Firmeza",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Após sofrer uma perda de 3PA: 20 de Vontade (turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Sor'Hon, Senhor da Chama (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BRB",
+    "name": "Leveza",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Após sofrer uma perda de 3PM: 20 de Vontade (1 turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Ovo Antigo (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BGB",
+    "name": "Topologia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No começo do combate: Toda a esquiva do portador do estado é convertida em armadura. A esquiva convertida se perde."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Pandora (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GRG",
+    "name": "Reprovação",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-20 de Vontade, reduz em 1 a próxima perda de PA sofrida, o efeito se reaplica em cada turno"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Mímiko rúnico (0.1%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBG",
+    "name": "Espanto",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No início do combate: 10% de Golpe Crítico (1 turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Bruxugo de Bler, o Furioso (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RGB",
+    "name": "Frenesi",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-20% de Danos causados, No começo do turno: 10% dos danos infligidos por inimigo afetado no turno anterior"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Aguabrial (2%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBG",
+    "name": "Dimensionalidade",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No primeiro turno do portador do estado: 1 de PW (não regenerativo)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Vertox, o Atemporal (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BGR",
+    "name": "Teoria da Matéria",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "100% de Golpe crítico, -50% de danos e curas"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Vertox, o Atemporal (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BRG",
+    "name": "Voltar",
+    "aliases": [ "Retorno" ],
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Recupera 1 PA ao matar um inimigo"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Dragão de Cinzas (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GRB",
+    "name": "Resistência",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-10% às penalidades de características recebidas. Envolve todas as penalidades de características (domínios, resistências, armaduras, golpe crítico) recebidas em combate e lançadas por uma entidade que não o portador do estado. O valor é sempre arredondado pra baixo."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Josespinha (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBR",
+    "name": "Escamas de Lua",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "5% de Armadura recebida"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Ovo Antigo (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GRR",
+    "name": "Presteza",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "1 PM, -10% de Danos causados"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Koko, o Nutt (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": "Quest Pandalucia lvl 186"
+      }
+    }
+  },
+  {
+    "slots": "BRR",
+    "name": "Salvaguarda",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No fim do turno: Os PA não utilizados são transmitidos ao turno seguinte, Máx. 1 PA"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Sor'Hon, Senhor da Chama (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBB",
+    "name": "Boa ação",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Em fim de turno: o portador do estado transmite 1 PA não utilizado ao aliado mais próximo"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBB",
+    "name": "Vivacidade",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "1 PA, -75 de resistência elementar"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Rei Dunylo (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": "Quest Pandalucia lvl 186"
+      }
+    }
+  },
+  {
+    "slots": "RGG",
+    "name": "Crítico Berserk",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Quando os PV estão abaixo de 50%: 10% de Golpe crítico"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Tanukui San (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BGG",
+    "name": "Visibilidade",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "1 de Alcance, -150 de Bloqueio, -150 de Esquiva"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Kanístero (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RRR",
+    "name": "Ruína II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "+20% de danos indiretos (danos infligidos pelo portador do estado fora do turno dele), em todas as rodadas pares"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Pandora (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBB",
+    "name": "Bloqueio Berserk",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Quando os PVs estão abaixo de 50%: 20% de bloqueio"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Rei Dunylo (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GGG",
+    "name": "Assolação II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No início do combate: 3% de Golpe crítico, 3% de Parada, 3 de Vontade"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Flogro (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RRG",
+    "name": "Evasão II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "3% de Parada por turno (máx. 40)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Pandora (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RRB",
+    "name": "Emboscada II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "10% dos danos infligidos aos alvos a 2 células de distância (1 célula entre o portador do estado e o alvo dele)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Tanukui San (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBR",
+    "name": "Espinhos",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Efetuar uma parada concede Preparação (+2 Nv.)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Ovo Antigo (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBG",
+    "name": "Esquiva Berserk",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Quando os PV estão abaixo de 50%: 20% de esquiva"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Josespinha (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GGR",
+    "name": "Barreira a Distância",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Reduz os danos a distancia recebidos em 50% do nível, 3 vezes por turno"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Kanístero (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GGB",
+    "name": "Barreira Corpo a Corpo",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Reduz os danos corpo a corpo recebidos em 50% do nível, 3 vezes por turno"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Koko, o Nutt (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RGR",
+    "name": "Tenacidade II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Em fim de turno, se portador do estado estiver com pelo menos 6PA: 60 de resistência elementar (2 turnos)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Flogro (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBR",
+    "name": "Firmeza II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Após sofrer uma perda de 2PA: 10 de Vontade (1 turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Flogro (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BRB",
+    "name": "Leveza II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Após sofrer uma perda de 2PM: 10 de Vontade (1 turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Bulbruto (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BGB",
+    "name": "Parada Berserk",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Quando os PV estão abaixo de 50%: 10% de Parada"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Bruxugo de Bler, o Furioso (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GRG",
+    "name": "Poço de Vitalidade",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Aumenta em 10% os Roubos de Vida realizados"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8084
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBG",
+    "name": "Influência",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "5% de Golpe crítico"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Mímiko Rúnico (0.1%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RGB",
+    "name": "Frenesi II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-15% de Danos causados, No começo do turno: 5% dos danos infligidos por entidade afetada no turno anterior."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Bruxugo de Bler, o Furioso (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBG",
+    "name": "Muralha",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No começo do combate, 300% do nível em armadura"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Koko, o Nutt (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BGR",
+    "name": "Ciclotimia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Turno par: 20 de Vontade, Turno ímpar: -20 de Vontade"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8085
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BRG",
+    "name": "Retorno II",
+    "aliases": [ "Voltar II" ],
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Recupera 1 PM ao matar um inimigo"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Bulbruto (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GRB",
+    "name": "Resistência II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "5% aos bônus de características recebidos. Envolve todos os bônus de características (domínios, resistências, armaduras) recebidos em combate e lançados por uma entidade que não o portador do estado. O valor é sempre arredondado pra baixo."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Bulbruto (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBR",
+    "name": "Reprovação II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-20 de Vontade. Reduz em 1 a próxima perda de PM sofrida. O efeito se reaplica a cada turno."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Rei Dunylo (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GRR",
+    "name": "Frenesi III",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-15% de Danos causados. No começo do turno: 25% de Danos causados se só um inimigo tiver sido afetado no turno anterior."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Rapiodo, o Infrequenciável (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BRR",
+    "name": "Extensão",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "5% de danos causados aos alvos alinhados e a apartir de 2 células do portador do estado."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Mímiko Rúnico (0.1%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBB",
+    "name": "Especialista em Paradas",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-50 de resistência elementar. -15% de danos recebidos durante uma parada"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Kanístero (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBB",
+    "name": "Invólucro Rochoso",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "5% de Armadura concedida"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Receita/craft de nível 90 de marceneiro/handyman"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8086
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RGG",
+    "name": "Influência II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "2% dos golpes críticos por turno (máx. 40)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Rapiodo, o Infrequenciável (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BGG",
+    "name": "Especialista em Golpes Críticos",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Em fim de turno, se um golpe crítico tiver sido desferido: Cura 4% dos PV perdidos do lançador"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Dragão de Cinzas (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBB",
+    "name": "Tolerância",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No fim do turno: 50% dos PM não utilizados são transmitidos ao turno seguinte (Máx. 1 PM)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": "Aguabrial (2%)"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBB",
+    "name": "Segredo da Vida",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Reduz o domínio de cura a 0. 10% de Curas realizadas."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Aguabrial (2%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBR",
+    "name": "Integridade",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Ao curar um aliado, se o aliado tiver menos de 15% dos PV: cura 15% dos PV máx. do alvo"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Aguabrial (2%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBG",
+    "name": "Lobo solitário",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Se não há aliados a até 4 células do portador do estado: 5% de Danos causados."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": "Aguabrial (2%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  }
+]
