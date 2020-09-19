@@ -163,4 +163,12 @@ describe('parseEffect', () => {
       })
     })
   })
+
+  describe('Null Effect (action 400)', () => {
+    it('ignores parsing', () => {
+      const effect = mockEffect(400, [])
+      const parsedEffect = parseEffect(effect, 50)
+      expect(parsedEffect).toEqual(effect)
+    })
+  })
 })

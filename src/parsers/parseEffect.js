@@ -45,7 +45,7 @@ export function parseEffect (effect, level) {
   const action = actionsData.find(actionDataId => actionDataId.definition.id === actionId)
   const description = action.description
   if (!description) {
-    return null
+    return effect
   }
   const parsedParams = originalParams.reduce((params, param, index) => {
     const isOddIndex = Boolean(index % 2)
