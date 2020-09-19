@@ -1,9 +1,8 @@
-/* eslint-disable no-unused-vars */
 import axios from 'axios'
 import fs from 'fs'
 
 /**
- * Get and save to file equipament from an external api.
+ * Get and save equipment from Method API.
  */
 async function getEquipment () {
   try {
@@ -25,7 +24,7 @@ async function getEquipment () {
           console.log({ lang: langs[langIndex] }, { rarity }, { skip }, results.length)
         }
       }
-      fs.writeFileSync(`data/raw/methodEquipment_${langs[langIndex]}.json`, JSON.stringify(results, null, 2))
+      fs.writeFileSync(`data/raw/method/methodEquipment_${langs[langIndex]}.json`, JSON.stringify(results, null, 2))
     }
   } catch (err) {
     console.error(err)
@@ -55,7 +54,10 @@ function removeRepeated (equipmentList) {
 }
 
 /**
- * Get equipment that are missing by id.
+ * Get equipment that are missing.
+ * Method API has a bug on pagination where some equipment are repeated
+ * and other don't are retrieved.
+ * This function check which ones are missing and enrich the list with them.
  *
  * @param {object[]} equipmentList
  * @returns {string[]}
@@ -78,7 +80,7 @@ async function getMissingIds (equipmentList) {
 async function enrichEquipListWithMissingIds () {
   const langs = ['en', 'pt', 'fr', 'es']
   for (let langIndex = 0; langIndex < langs.length; langIndex++) {
-    let equipmentListRaw = fs.readFileSync(`data/raw/methodEquipment_${langs[langIndex]}.json`)
+    let equipmentListRaw = fs.readFileSync(`data/raw/method/methodEquipment_${langs[langIndex]}.json`)
     let equipmentList = JSON.parse(equipmentListRaw)
     let missingIds = await getMissingIds(equipmentList)
     while (missingIds.length) {
@@ -97,14 +99,13 @@ async function enrichEquipListWithMissingIds () {
       }
       const finalList = removeRepeated([...equipmentList, ...results])
       console.log(finalList.length)
-      fs.writeFileSync(`data/raw/methodEquipment_${langs[langIndex]}.json`, JSON.stringify(finalList, null, 2))
-      equipmentListRaw = fs.readFileSync(`data/raw/methodEquipment_${langs[langIndex]}.json`)
+      fs.writeFileSync(`data/raw/method/methodEquipment_${langs[langIndex]}.json`, JSON.stringify(finalList, null, 2))
+      equipmentListRaw = fs.readFileSync(`data/raw/method/methodEquipment_${langs[langIndex]}.json`)
       equipmentList = JSON.parse(equipmentListRaw)
       missingIds = await getMissingIds(equipmentList)
     }
   }
 }
-
 /**
  * Runs these scripts.
  */
