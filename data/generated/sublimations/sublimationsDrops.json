@@ -1,0 +1,3236 @@
+[
+  {
+    "name": "Brutalidade",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Se Domínio Zona > Domínio Corpo a Corpo, Domínio Corpo a Corpo é adicionado ao Domínio Zona (max 800) no começo do combate, perdendo a mesma quantidade em Domínio Distância."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Ultimate Boss Chest (UB)",
+        "es": "Cofre de Final de Temporada de Jefe Supremo (UB)",
+        "fr": "Coffre Fin de Saison de Boss Ultime (UB)",
+        "pt": "Baú de Final de Temporada de Chefe Final (UB)"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325796.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/25796-brutality"
+  },
+  {
+    "name": "Precisão Cirúrgica",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "+20% de curas e armaduras realizadas se o usuário tiver 1 de alcance ou menos no início do combate "
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68324133.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/consumiveis/24133-runa-epica-precisao-cirurgica"
+  },
+  {
+    "name": "Medida",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "10% De chance de crítico se o usuário tiver 40 de parada ou mais no inicio do combate."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68324134.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/consumiveis/24134-runa-epica-medida"
+  },
+  {
+    "name": "Desenlace",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "50% de domínio crítico é transferido para domínio elemental."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68324132.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/consumiveis/24132-runa-epica-desenlace"
+  },
+  {
+    "name": "Inflexibilidade",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "+20% de dano realizado, se o usuário tem 10 Pa ou menos no inicio do combate."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68324130.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/consumiveis/24130-runa-epica-inflexibilidade"
+  },
+  {
+    "name": "Constância",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "+10% de dano realizado se o usuário tem 10 de crítico ou menos no inicio do combate"
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68324131.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/consumiveis/24131-rune-epique-constance"
+  },
+  {
+    "name": "Saúde de Ferro",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-40% HP, +30% de Curas e Armaduras recebidas no começo do combate."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Ultimate Boss Chest (UB)",
+        "es": "Cofre de Final de Temporada de Jefe Supremo (UB)",
+        "fr": "Coffre Fin de Saison de Boss Ultime (UB)",
+        "pt": "Baú de Final de Temporada de Chefe Final (UB)"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325793.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/25793-saude-ferro"
+  },
+  {
+    "name": "Arte do Posicionamento",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "50 de resistência elemental, -100 de resistência costas para o usuário no inicio do combate."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Ultimate Boss Chest (UB)",
+        "es": "Cofre de Final de Temporada de Jefe Supremo (UB)",
+        "fr": "Coffre Fin de Saison de Boss Ultime (UB)",
+        "pt": "Baú de Final de Temporada de Chefe Final (UB)"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325794.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/25794-arte-do-posicionamento"
+  },
+  {
+    "name": "Anatomia",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Convert 50% de todo domínio elemental em Domínio Costas no início do combate (proporção de 1 para 1.3)"
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Ultimate Boss Chest (UB)",
+        "es": "Cofre de Final de Temporada de Jefe Supremo (UB)",
+        "fr": "Coffre Fin de Saison de Boss Ultime (UB)",
+        "pt": "Baú de Final de Temporada de Chefe Final (UB)"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325795.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/consumiveis/25795-epic-rune-anatomy"
+  },
+  {
+    "name": "Manejo: Duas Mãos",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-2MP max, +2AP max se o usuário tiver uma arma de duas mãos equipadas no começo do combate (max 11 AP antes do efeito)"
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325793.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/27186-manejo-duas-maos"
+  },
+  {
+    "name": "Manejo: Adaga",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "+10% danos causados pela frente e -10% pelas costas caso o usuário tiver uma adaga equipada no começo do combate."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325794.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/27187-wield-type-dagger"
+  },
+  {
+    "name": "Manejo: Escudo",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "+1MP max, alcance fixado em 0 se o usuário tiver um escudo equipado no começo do combate."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325795.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/27188-maniement-bouclier"
+  },
+  {
+    "name": "Pacto Wakfu",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "+10 Vontade, +10% Parada se o usuário tiver 8 PW ou mais no começo do combate"
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325796.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/27189-pacto-wakfu"
+  },
+  {
+    "name": "Concentração Elementar",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Aumenta o maior elemento do usuário em 15%, diminuindo os demais em 30% no começo do combate."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325797.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/27190-concentracao-elementar"
+  },
+  {
+    "name": "Força Hercúlea",
+    "slots": "Épico",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "150% do nível do usuário em Bloqueio e esquiva, se o usuário tem um numero ímpar de PA no inicio do combate"
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325797.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/25797-force-herculeenne"
+  },
+  {
+    "name": "Braseiro",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "+50% do lvl do jogador em 2 Maestrias secundarias diferentes por turno (1: CaC+ST, 2: Dist+ST, 3: Dist+AoE, 4: Cac+AoE, ...)"
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68324138.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/consumiveis/24138-runa-reliquia-braseiro"
+  },
+  {
+    "name": "Kebra-Karkaça",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "O Primeiro dano infligido durante o turno remove 30% da armadura do alvo."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68324135.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/consumiveis/24135-runa-reliquia-kebra-karkaca"
+  },
+  {
+    "name": "Alternância",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Se o usuário usa apenas um elemento para infligir danos durante o turno, ele recebe 15% de dano para seus outros 3 elementos no próximo turno."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68324136.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/consumiveis/24136-runa-reliquia-alternancia"
+  },
+  {
+    "name": "Confiança",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "+20% de Bloqueio se o usuário não foi curado no turno anterior."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68324137.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/consumiveis/24137-runa-reliquia-confianca"
+  },
+  {
+    "name": "Robusto",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "50% do nível do personagem em barreira para ataques a distancia."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68324139.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/14186-robusto"
+  },
+  {
+    "name": "Alternância II",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Se o usuário causa dano em um elemento, ele ganha +10% de Maestria elemental para os outros elementos para a próxima magia."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325798.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/25798-alternation-ii"
+  },
+  {
+    "name": "Excesso",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-10% de danos causados. A cada 10 magias conjuradas que custem PA, o usuário ganha 100% de dano causado para o próximo ataque"
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Ultimate Boss Chest (UB)",
+        "es": "Cofre de Final de Temporada de Jefe Supremo (UB)",
+        "fr": "Coffre Fin de Saison de Boss Ultime (UB)",
+        "pt": "Baú de Final de Temporada de Chefe Final (UB)"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325799.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/25799-excesso"
+  },
+  {
+    "name": "Sangue do Talho",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Em turnos ímpar: O usuário ganha 30% de danos causados, mas recebe 15% do dano realizado."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Ultimate Boss Chest (UB)",
+        "es": "Cofre de Final de Temporada de Jefe Supremo (UB)",
+        "fr": "Coffre Fin de Saison de Boss Ultime (UB)",
+        "pt": "Baú de Final de Temporada de Chefe Final (UB)"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325800.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/25800-sangue-do-talho"
+  },
+  {
+    "name": "Aura de Chamas",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "+10 de flamejante (acumulativo) para cada magia recebida no corpo a corpo por um inimigo."
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Ultimate Boss Chest (UB)",
+        "es": "Cofre de Final de Temporada de Jefe Supremo (UB)",
+        "fr": "Coffre Fin de Saison de Boss Ultime (UB)",
+        "pt": "Baú de Final de Temporada de Chefe Final (UB)"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325802.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/25802-aura-chamas"
+  },
+  {
+    "name": "Guarda baixada",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-30% de dano recebido no turno do próprio usuário"
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Ultimate Boss Chest (UB)",
+        "es": "Cofre de Final de Temporada de Jefe Supremo (UB)",
+        "fr": "Coffre Fin de Saison de Boss Ultime (UB)",
+        "pt": "Baú de Final de Temporada de Chefe Final (UB)"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325801.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/25801-guarda-baixada"
+  },
+  {
+    "name": "Brisa",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "+20% de dano no alvo direto de uma magia em zona e -50% nos outros alvos"
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325798.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/27191-brise"
+  },
+  {
+    "name": "Diretivas",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "+10% de danos causados nas magias em zona com alvos alinhados com o usuário"
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325799.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/27192-directives"
+  },
+  {
+    "name": "Nhé",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Em turnos pares: recupera 2 PA ao usar PW (1x por turno). Em turnos ímpares: perde 2 PA ao usar PW (1x por turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325800.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/27193-nhe"
+  },
+  {
+    "name": "Estasificação",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Aumenta os danos causados em 2% por turno permanentemente. (max 30%)"
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325801.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/27194-stasification"
+  },
+  {
+    "name": "Arma de Luz",
+    "slots": "Relíquia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Reduz o dano causado por um ataque de arma em 20% e aplica um veneno que dura 3 turnos com dano de acordo com os PAs gastos (arma principal apenas)"
+    },
+    "source": {
+      "chest": {
+        "en": "End-of-season Dungeon Chest",
+        "es": "Cofre de Final de Temporada de Mazmorra",
+        "fr": "Coffre Fin de Saison de Donjon",
+        "pt": "Baú de Final de Temporada de Calabouço"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    },
+    "image": "https://static.ankama.com/wakfu/portal/game/item/115/68325802.png",
+    "link": "https://www.wakfu.com/pt/mmorpg/enciclopedia/recursos/27195-arma-luz"
+  },
+  {
+    "slots": "RRR",
+    "name": "Ruína",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "10% de danos indiretos (danos infligidos pelo portador do estado fora do turno dele)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8080
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBB",
+    "name": "Devastação",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "1 de PW, -20 Vontade"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Grozepin (1%)",
+          "es": "Espinanta (1%)",
+          "fr": "Grozépine (1%)",
+          "pt": "Josespinha (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GGG",
+    "name": "Assolação",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No início do combate: Todos os domínios e resistências: +10"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Sor'Hon, Lord of the Flame (1%)",
+          "es": "Saur'Hon, el Señor de la Llama (1%)",
+          "fr": "Sor'Hon, Seigneur de la Flamme (1%)",
+          "pt": "Sor'Hon, Senhor da Chama (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RRG",
+    "name": "Carnificina",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Quando os PV estão acima de 90%: 40 de domínio elementar"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Ashdragon (1%)",
+          "es": "Cendragón (1%)",
+          "fr": "Cendragon (1%)",
+          "pt": "Dragão de Cinzas (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RRB",
+    "name": "Cicatrização",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "10% dos PV (bônus sobre o modificador de PV)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Ghost Tanukouï San (1%)",
+          "es": "Fantasma de Tanukui San (1%)",
+          "fr": "Fantôme Tanukouï-San (1%)",
+          "pt": "Fantasma Tanukui San (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBR",
+    "name": "Emboscada",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "5% dos danos infligidos aos alvos em contato"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Vertox the Timeless (1%)",
+          "es": "Vertox, el Intemporal (1%)",
+          "fr": "Vertox l'Intemporel (1%)",
+          "pt": "Vertox, o Atemporal (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBG",
+    "name": "Evasão",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No início do combate: 10% de Parada (1 turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8081
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GGR",
+    "name": "Determinação",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-15% dos danos indiretos recebidos"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Robowl the Outcast (1%)",
+          "es": "Rapyodo, el Infrecuenciable (1%)",
+          "fr": "Raipiode l'Infréquençable (1%)",
+          "pt": "Rapiodo, o Infrequenciável (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GGB",
+    "name": "Tenacidade",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Em fim de turno, se o portador do estado estiver com pelo menos 2PA: 25 de resistência elementar (1 turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8082
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RGR",
+    "name": "Solidez",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Reduz os danos diretos recebidos superiores a 20% dos PV máx. em 400% do nível (uma vez por rodada)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8083
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBR",
+    "name": "Firmeza",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Após sofrer uma perda de 3PA: 20 de Vontade (turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Sor'Hon, Lord of the Flame (1%)",
+          "es": "Saur'Hon, el Señor de la Llama (1%)",
+          "fr": "Sor'Hon, Seigneur de la Flamme (1%)",
+          "pt": "Sor'Hon, Senhor da Chama (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BRB",
+    "name": "Leveza",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Após sofrer uma perda de 3PM: 20 de Vontade (1 turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Ancient Egg (1%)",
+          "es": "Huevo antiguo (1%)",
+          "fr": "Oeuf Antique (1%)",
+          "pt": "Ovo Antigo (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BGB",
+    "name": "Topologia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No começo do combate: Toda a esquiva do portador do estado é convertida em armadura. A esquiva convertida se perde."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Pandora (1%)",
+          "es": "Pandora (1%)",
+          "fr": "Pandore (1%)",
+          "pt": "Pandora (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GRG",
+    "name": "Reprovação",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-20 de Vontade, reduz em 1 a próxima perda de PA sofrida, o efeito se reaplica em cada turno"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Runic Mimic (0.1%)",
+          "es": "Mimic rúnico (0.1%)",
+          "fr": "Mimic Runique (0.1%)",
+          "pt": "Mímiko Rúnico (0.1%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBG",
+    "name": "Espanto",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No início do combate: 10% de Golpe Crítico (1 turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Badgwitch the Furiox (1%)",
+          "es": "Tejónidas el Furioso (1%)",
+          "fr": "Blérwitch le Furax (1%)",
+          "pt": "Bruxugo de Bler, o Furioso (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RGB",
+    "name": "Frenesi",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-20% de Danos causados, No começo do turno: 10% dos danos infligidos por inimigo afetado no turno anterior"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Aguabrial (2%)",
+          "es": "Aguabrial (2%)",
+          "fr": "Aguabrial (2%)",
+          "pt": "Aguabrial (2%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBG",
+    "name": "Dimensionalidade",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No primeiro turno do portador do estado: 1 de PW (não regenerativo)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Vertox the Timeless (1%)",
+          "es": "Vertox, el Intemporal (1%)",
+          "fr": "Vertox l'Intemporel (1%)",
+          "pt": "Vertox, o Atemporal (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BGR",
+    "name": "Teoria da Matéria",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "100% de Golpe crítico, -50% de danos e curas"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Vertox the Timeless (1%)",
+          "es": "Vertox, el Intemporal (1%)",
+          "fr": "Vertox l'Intemporel (1%)",
+          "pt": "Vertox, o Atemporal (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BRG",
+    "name": "Voltar",
+    "aliases": [
+      "Retorno"
+    ],
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Recupera 1 PA ao matar um inimigo"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Bulbrute (1%)",
+          "es": "Bulbruto (1%)",
+          "fr": "Bulbrute (1%)",
+          "pt": "Bulbruto (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GRB",
+    "name": "Resistência",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-10% às penalidades de características recebidas. Envolve todas as penalidades de características (domínios, resistências, armaduras, golpe crítico) recebidas em combate e lançadas por uma entidade que não o portador do estado. O valor é sempre arredondado pra baixo."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Grozepin (1%)",
+          "es": "Espinanta (1%)",
+          "fr": "Grozépine (1%)",
+          "pt": "Josespinha (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBR",
+    "name": "Escamas de Lua",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "5% de Armadura recebida"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Ancient Egg (1%)",
+          "es": "Huevo antiguo (1%)",
+          "fr": "Oeuf Antique (1%)",
+          "pt": "Ovo Antigo (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GRR",
+    "name": "Presteza",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "1 PM, -10% de Danos causados"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Koko the Nutt (1%)",
+          "es": "Koko, el Kolgado (1%)",
+          "fr": "Koko le Nutt (1%)",
+          "pt": "Koko, o Nutt (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "Quest Pandalucia lvl 186",
+        "es": "Misión Pandalucía lvl 186",
+        "fr": "Quête Pandalouise lvl 186",
+        "pt": "Missão Pandaluzia lvl 186"
+      }
+    }
+  },
+  {
+    "slots": "BRR",
+    "name": "Salvaguarda",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No fim do turno: Os PA não utilizados são transmitidos ao turno seguinte, Máx. 1 PA"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Sor'Hon, Lord of the Flame (1%)",
+          "es": "Saur'Hon, el Señor de la Llama (1%)",
+          "fr": "Sor'Hon, Seigneur de la Flamme (1%)",
+          "pt": "Sor'Hon, Senhor da Chama (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBB",
+    "name": "Boa ação",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Em fim de turno: o portador do estado transmite 1 PA não utilizado ao aliado mais próximo"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBB",
+    "name": "Vivacidade",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "1 PA, -75 de resistência elementar"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Nyl King (1%)",
+          "es": "Rey Delnilo (1%)",
+          "fr": "Roi Dunîl (1%)",
+          "pt": "Rei Dunylo (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "Quest Pandalucia lvl 186",
+        "es": "Misión Pandalucía lvl 186",
+        "fr": "Quête Pandalouise lvl 186",
+        "pt": "Missão Pandaluzia lvl 186"
+      }
+    }
+  },
+  {
+    "slots": "RGG",
+    "name": "Crítico Berserk",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Quando os PV estão abaixo de 50%: 10% de Golpe crítico"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Ghost Tanukouï San (1%)",
+          "es": "Fantasma de Tanukui San (1%)",
+          "fr": "Fantôme Tanukouï-San (1%)",
+          "pt": "Fantasma Tanukui San (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BGG",
+    "name": "Visibilidade",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "1 de Alcance, -150 de Bloqueio, -150 de Esquiva"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Kannilooni (1%)",
+          "es": "Kanibolístero (1%)",
+          "fr": "Kannistère (1%)",
+          "pt": "Kanístero (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RRR",
+    "name": "Ruína II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "+20% de danos indiretos (danos infligidos pelo portador do estado fora do turno dele), em todas as rodadas pares"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Pandora (1%)",
+          "es": "Pandora (1%)",
+          "fr": "Pandore (1%)",
+          "pt": "Pandora (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBB",
+    "name": "Bloqueio Berserk",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Quando os PVs estão abaixo de 50%: 20% de bloqueio"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Nyl King (1%)",
+          "es": "Rey Delnilo (1%)",
+          "fr": "Roi Dunîl (1%)",
+          "pt": "Rei Dunylo (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GGG",
+    "name": "Assolação II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No início do combate: 3% de Golpe crítico, 3% de Parada, 3 de Vontade"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Blightogre (1%)",
+          "es": "Plagogro (1%)",
+          "fr": "Fléogre (1%)",
+          "pt": "Flogro (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RRG",
+    "name": "Evasão II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "3% de Parada por turno (máx. 40)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Pandora (1%)",
+          "es": "Pandora (1%)",
+          "fr": "Pandore (1%)",
+          "pt": "Pandora (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RRB",
+    "name": "Emboscada II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "10% dos danos infligidos aos alvos a 2 células de distância (1 célula entre o portador do estado e o alvo dele)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Ghost Tanukouï San (1%)",
+          "es": "Fantasma de Tanukui San (1%)",
+          "fr": "Fantôme Tanukouï-San (1%)",
+          "pt": "Fantasma Tanukui San (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBR",
+    "name": "Espinhos",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Efetuar uma parada concede Preparação (+2 Nv.)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Ancient Egg (1%)",
+          "es": "Huevo antiguo (1%)",
+          "fr": "Oeuf Antique (1%)",
+          "pt": "Ovo Antigo (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBG",
+    "name": "Esquiva Berserk",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Quando os PV estão abaixo de 50%: 20% de esquiva"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Grozepin (1%)",
+          "es": "Espinanta (1%)",
+          "fr": "Grozépine (1%)",
+          "pt": "Josespinha (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GGR",
+    "name": "Barreira a Distância",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Reduz os danos a distancia recebidos em 50% do nível, 3 vezes por turno"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Kannilooni (1%)",
+          "es": "Kanibolístero (1%)",
+          "fr": "Kannistère (1%)",
+          "pt": "Kanístero (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GGB",
+    "name": "Barreira Corpo a Corpo",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Reduz os danos corpo a corpo recebidos em 50% do nível, 3 vezes por turno"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Koko the Nutt (1%)",
+          "es": "Koko, el Kolgado (1%)",
+          "fr": "Koko le Nutt (1%)",
+          "pt": "Koko, o Nutt (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RGR",
+    "name": "Tenacidade II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Em fim de turno, se portador do estado estiver com pelo menos 6PA: 60 de resistência elementar (2 turnos)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Blightogre (1%)",
+          "es": "Plagogro (1%)",
+          "fr": "Fléogre (1%)",
+          "pt": "Flogro (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBR",
+    "name": "Firmeza II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Após sofrer uma perda de 2PA: 10 de Vontade (1 turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Blightogre (1%)",
+          "es": "Plagogro (1%)",
+          "fr": "Fléogre (1%)",
+          "pt": "Flogro (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BRB",
+    "name": "Leveza II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Após sofrer uma perda de 2PM: 10 de Vontade (1 turno)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Bulbrute (1%)",
+          "es": "Bulbruto (1%)",
+          "fr": "Bulbrute (1%)",
+          "pt": "Bulbruto (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BGB",
+    "name": "Parada Berserk",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Quando os PV estão abaixo de 50%: 10% de Parada"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Badgwitch the Furiox (1%)",
+          "es": "Tejónidas el Furioso (1%)",
+          "fr": "Blérwitch le Furax (1%)",
+          "pt": "Bruxugo de Bler, o Furioso (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GRG",
+    "name": "Poço de Vitalidade",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Aumenta em 10% os Roubos de Vida realizados"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8084
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBG",
+    "name": "Influência",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "5% de Golpe crítico"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Runic Mimic (0.1%)",
+          "es": "Mimic rúnico (0.1%)",
+          "fr": "Mimic Runique (0.1%)",
+          "pt": "Mímiko Rúnico (0.1%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RGB",
+    "name": "Frenesi II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-15% de Danos causados, No começo do turno: 5% dos danos infligidos por entidade afetada no turno anterior."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Badgwitch the Furiox (1%)",
+          "es": "Tejónidas el Furioso (1%)",
+          "fr": "Blérwitch le Furax (1%)",
+          "pt": "Bruxugo de Bler, o Furioso (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBG",
+    "name": "Muralha",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No começo do combate, 300% do nível em armadura"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Koko the Nutt (1%)",
+          "es": "Koko, el Kolgado (1%)",
+          "fr": "Koko le Nutt (1%)",
+          "pt": "Koko, o Nutt (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BGR",
+    "name": "Ciclotimia",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Turno par: 20 de Vontade, Turno ímpar: -20 de Vontade"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8085
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BRG",
+    "name": "Retorno II",
+    "aliases": [
+      "Voltar II"
+    ],
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Recupera 1 PM ao matar um inimigo"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Bulbrute (1%)",
+          "es": "Bulbruto (1%)",
+          "fr": "Bulbrute (1%)",
+          "pt": "Bulbruto (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GRB",
+    "name": "Resistência II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "5% aos bônus de características recebidos. Envolve todos os bônus de características (domínios, resistências, armaduras) recebidos em combate e lançados por uma entidade que não o portador do estado. O valor é sempre arredondado pra baixo."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Bulbrute (1%)",
+          "es": "Bulbruto (1%)",
+          "fr": "Bulbrute (1%)",
+          "pt": "Bulbruto (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBR",
+    "name": "Reprovação II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-20 de Vontade. Reduz em 1 a próxima perda de PM sofrida. O efeito se reaplica a cada turno."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Nyl King (1%)",
+          "es": "Rey Delnilo (1%)",
+          "fr": "Roi Dunîl (1%)",
+          "pt": "Rei Dunylo (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GRR",
+    "name": "Frenesi III",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-15% de Danos causados. No começo do turno: 25% de Danos causados se só um inimigo tiver sido afetado no turno anterior."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Robowl the Outcast (1%)",
+          "es": "Rapyodo, el Infrecuenciable (1%)",
+          "fr": "Raipiode l'Infréquençable (1%)",
+          "pt": "Rapiodo, o Infrequenciável (1%)"
+        },
+        "steles": 3
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BRR",
+    "name": "Extensão",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "5% de danos causados aos alvos alinhados e a apartir de 2 células do portador do estado."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Runic Mimic (0.1%)",
+          "es": "Mimic rúnico (0.1%)",
+          "fr": "Mimic Runique (0.1%)",
+          "pt": "Mímiko Rúnico (0.1%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBB",
+    "name": "Especialista em Paradas",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "-50 de resistência elementar. -15% de danos recebidos durante uma parada"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Kannilooni (1%)",
+          "es": "Kanibolístero (1%)",
+          "fr": "Kannistère (1%)",
+          "pt": "Kanístero (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBB",
+    "name": "Invólucro Rochoso",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "5% de Armadura concedida"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": 8086
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RGG",
+    "name": "Influência II",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "2% dos golpes críticos por turno (máx. 40)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Robowl the Outcast (1%)",
+          "es": "Rapyodo, el Infrecuenciable (1%)",
+          "fr": "Raipiode l'Infréquençable (1%)",
+          "pt": "Rapiodo, o Infrequenciável (1%)"
+        },
+        "steles": 2
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BGG",
+    "name": "Especialista em Golpes Críticos",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Em fim de turno, se um golpe crítico tiver sido desferido: Cura 4% dos PV perdidos do lançador"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Ashdragon (1%)",
+          "es": "Cendragón (1%)",
+          "fr": "Cendragon (1%)",
+          "pt": "Dragão de Cinzas (1%)"
+        },
+        "steles": 1
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBB",
+    "name": "Tolerância",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "No fim do turno: 50% dos PM não utilizados são transmitidos ao turno seguinte (Máx. 1 PM)"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": "Aguabrial (2%)"
+      },
+      "drop": {
+        "monster": {
+          "en": "",
+          "es": "",
+          "fr": "",
+          "pt": ""
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "GBB",
+    "name": "Segredo da Vida",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Reduz o domínio de cura a 0. 10% de Curas realizadas."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Aguabrial (2%)",
+          "es": "Aguabrial (2%)",
+          "fr": "Aguabrial (2%)",
+          "pt": "Aguabrial (2%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "BBR",
+    "name": "Integridade",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Ao curar um aliado, se o aliado tiver menos de 15% dos PV: cura 15% dos PV máx. do alvo"
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Aguabrial (2%)",
+          "es": "Aguabrial (2%)",
+          "fr": "Aguabrial (2%)",
+          "pt": "Aguabrial (2%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  },
+  {
+    "slots": "RBG",
+    "name": "Lobo solitário",
+    "effects": {
+      "en": "",
+      "es": "",
+      "fr": "",
+      "pt": "Se não há aliados a até 4 células do portador do estado: 5% de Danos causados."
+    },
+    "source": {
+      "chest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      },
+      "drop": {
+        "monster": {
+          "en": "Aguabrial (2%)",
+          "es": "Aguabrial (2%)",
+          "fr": "Aguabrial (2%)",
+          "pt": "Aguabrial (2%)"
+        },
+        "steles": ""
+      },
+      "craft": {
+        "recipeId": ""
+      },
+      "quest": {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "pt": ""
+      }
+    }
+  }
+]

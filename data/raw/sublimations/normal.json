@@ -785,10 +785,10 @@
         "recipeId": ""
       },
       "quest": {
-        "en": "",
-        "es": "",
-        "fr": "",
-        "pt": "Quest Pandalucia lvl 186"
+        "en": "Quest Pandalucia lvl 186",
+        "es": "Misión Pandalucía lvl 186",
+        "fr": "Quête Pandalouise lvl 186",
+        "pt": "Missão Pandaluzia lvl 186"
       }
     }
   },
@@ -893,10 +893,10 @@
         "recipeId": ""
       },
       "quest": {
-        "en": "",
-        "es": "",
-        "fr": "",
-        "pt": "Quest Pandalucia lvl 186"
+        "en": "Quest Pandalucia lvl 186",
+        "es": "Misión Pandalucía lvl 186",
+        "fr": "Quête Pandalouise lvl 186",
+        "pt": "Missão Pandaluzia lvl 186"
       }
     }
   },
@@ -1858,7 +1858,7 @@
           "en": "",
           "es": "",
           "fr": "",
-          "pt": "Receita/craft de nível 90 de marceneiro/handyman"
+          "pt": ""
         },
         "steles": ""
       },
