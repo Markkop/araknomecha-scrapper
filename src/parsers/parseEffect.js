@@ -41,6 +41,15 @@ const elementMap = {
  */
 export function parseEffect (effect, level) {
   const actionId = effect.definition.actionId
+  const isMakabrakfire = actionId === 1020 // Hardcoded
+  if (isMakabrakfire) {
+    effect.description = {
+      fr: 'Renvoie 10% des dégâts',
+      en: 'Reflects 10% of damage',
+      es: 'Devuelve un 10% de los daños',
+      pt: 'Reenvia 10% dos danos'
+    }
+  }
   const originalParams = effect.definition.params
   const action = actionsData.find(actionDataId => actionDataId.definition.id === actionId)
   const description = action.description
@@ -71,6 +80,25 @@ export function parseEffect (effect, level) {
       const jobId = originalParams[2]
       const job = jobsData.find(job => jobId === job.definition.id)
       paramValue = job.title
+    }
+
+    if (actionId === 39 && index === 4) {
+      const characteristicId = originalParams[4]
+      const characteristicMap = {
+        120: {
+          fr: 'Armure reçue',
+          en: 'Armor received',
+          es: 'Armadura recibida',
+          pt: 'de Armadura recebida'
+        },
+        121: {
+          fr: 'Armure donnée',
+          en: 'Armor given',
+          es: 'Armadura dada',
+          pt: 'de Armadura concedida'
+        }
+      }
+      paramValue = characteristicMap[characteristicId]
     }
     return [
       ...params,

@@ -98,7 +98,16 @@ function mountItems () {
   const mountedItems = itemsData.map(itemData => {
     const mappedItem = {}
     const itemDefinition = itemData.definition.item
-    const itemLevel = itemDefinition.level
+    let itemLevel = itemDefinition.level
+    const itemTypeId = itemDefinition.baseParameters.itemTypeId
+    const isPetOrMount = itemTypeId === 611 || itemTypeId === 582
+    if (isPetOrMount) {
+      itemLevel = 50
+    }
+    const isMakabraItem = itemLevel === 0 && !isPetOrMount
+    if (isMakabraItem) {
+      itemLevel = 100
+    }
     const useParameters = itemDefinition.useParameters
     const equipEffects = itemData.definition.equipEffects
       .map(equipEffect => parseEffect(equipEffect.effect, itemLevel))

@@ -5,16 +5,21 @@ import { parseEffect } from './parseEffect'
  *
  * @param {number} actionId
  * @param {number[]} params
+ * @param {object} description
  * @returns {object}
  */
-function mockEffect (actionId, params) {
-  return {
+function mockEffect (actionId, params, description) {
+  const effect = {
     definition: {
       id: 219518,
       actionId,
       params
     }
   }
+  if (description) {
+    effect.description = description
+  }
+  return effect
 }
 
 describe('parseEffect', () => {
@@ -164,11 +169,37 @@ describe('parseEffect', () => {
     })
   })
 
+  describe('Characteristic Id (action 39)', () => {
+    it('armor received', () => {
+      const effect = mockEffect(39, [10, 0, 0, 0, 121, 0])
+      const parsedEffect = parseEffect(effect, 100)
+      expect(parsedEffect.description).toEqual({
+        en: '10% Armor given',
+        es: '10% Armadura dada',
+        fr: '10% Armure donnée',
+        pt: '10% de Armadura concedida'
+      })
+    })
+  })
+
   describe('Null Effect (action 400)', () => {
     it('ignores parsing', () => {
       const effect = mockEffect(400, [])
       const parsedEffect = parseEffect(effect, 50)
       expect(parsedEffect).toEqual(effect)
+    })
+  })
+
+  describe('Makabrakfire hardcoding (action 1020)', () => {
+    it('2hard4me', () => {
+      const effect = mockEffect(1020, [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0.001])
+      const parsedEffect = parseEffect(effect, 100)
+      expect(parsedEffect.description).toEqual({
+        en: 'Reflects 10% of damage',
+        es: 'Devuelve un 10% de los daños',
+        fr: 'Renvoie 10% des dégâts',
+        pt: 'Reenvia 10% dos danos'
+      })
     })
   })
 })
