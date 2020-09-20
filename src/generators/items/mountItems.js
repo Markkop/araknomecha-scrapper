@@ -2,12 +2,8 @@ import itemsData from '../../../data/raw/items'
 import recipesData from '../../../data/generated/recipes'
 import { storeData } from '../../helpers'
 import { parseEffect } from '../../parsers/parseEffect'
-import epic from '../../../data/raw/sublimations/epic.json'
-import relic from '../../../data/raw/sublimations/relic.json'
-import normal from '../../../data/raw/sublimations/normal.json'
+import sublimations from '../../../data/generated/sublimations/sublimations.json'
 import fs from 'fs'
-
-const sublimations = [...epic, ...relic, ...normal]
 
 const equipmentList = {
   en: JSON.parse(fs.readFileSync('data/raw/method/methodEquipment_en.json')),
