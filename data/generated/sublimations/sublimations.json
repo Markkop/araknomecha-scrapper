@@ -3,10 +3,10 @@
     "name": "Brutalidade",
     "slots": "Épico",
     "effects": {
-      "en": "If the bearer has more Area Mastery than Melee Mastery, adds the bearer's Melee Mastery to their Area Mastery and removes an equal amount of Distance Mastery at the start of combat.",
-      "es": "Si el portador tiene más dominio zona que dominio cuerpo a cuerpo, añade el dominio cuerpo a cuerpo del portador a su dominio zona y retira lo equivalente en dominio distancia en el lanzamiento del combate.",
-      "fr": "Si le porteur a plus de Maîtrise Zone que de Maîtrise Mêlée, ajoute la Maîtrise Mêlée du porteur à sa Maîtrise Zone et retire l'équivalent en Maîtrise Distance au lancement du combat.",
-      "pt": "Se o portador tiver mais domínio de zona que domínio de luta corpo a corpo, adiciona o domínio de luta corpo a corpo do portador a seu domínio de zona e retira o equivalente em domínio de distância quando o combate for lançado."
+      "en": "If the bearer has more Area Mastery than Melee Mastery, adds the bearer's Melee Mastery to their Area Mastery and removes an equal amount of Distance Mastery at the start of combat. Melee Mastery is not lost; 800 max converted.",
+      "es": "Si el portador tiene más dominio zona que dominio cuerpo a cuerpo, añade el dominio cuerpo a cuerpo del portador a su dominio zona y retira lo equivalente en dominio distancia en el lanzamiento del combate. El dominio cuerpo a cuerpo no se pierde, máx. 800 convertido.",
+      "fr": "Si le porteur a plus de Maîtrise Zone que de Maîtrise Mêlée, ajoute la Maîtrise Mêlée du porteur à sa Maîtrise Zone et retire l'équivalent en Maîtrise Distance au lancement du combat. La Maîtrise Mêlée n'est pas perdue, max 800 convertie.",
+      "pt": "Se o portador tiver mais domínio de zona que domínio de luta corpo a corpo, adiciona o domínio de luta corpo a corpo do portador a seu domínio de zona e retira o equivalente em domínio de distância quando o combate for lançado. O domínio de luta corpo a corpo não é perdido, máximo de 800 convertido."
     },
     "source": {
       "chest": {
@@ -573,10 +573,10 @@
     "name": "Braseiro",
     "slots": "Relíquia",
     "effects": {
-      "en": "+50% level in two secondary masteries (different each turn).",
-      "es": "+50% del nivel en dos dominios secundarios (diferentes en cada turno).",
-      "fr": "+50% du niveau dans deux maîtrises secondaires (varient chaque tour).",
-      "pt": "+50% do valor do nível em duas habilidades secundárias (variando a cada turno)."
+      "en": "+50% level in two secondary masteries (different each turn). Turn 1: Melee + Single Target Turn 2: Distance + Single Target Turn 3: Distance + Area of Effect Turn 4: Melee + Area of Effect",
+      "es": "+50% del nivel en dos dominios secundarios (diferentes en cada turno). Turno 1: Cuerpo a cuerpo + monobjetivo Turno 2: Distancia + monobjetivo Turno 3: Distancia + zona Turno 4: Cuerpo a cuerpo + zona",
+      "fr": "+50% du niveau dans deux maîtrises secondaires (varient chaque tour). Tour 1 : Mêlée + Monocible Tour 2 : Distance + Monocible Tour 3 : Distance + Zone Tour 4 : Mêlée + Zone",
+      "pt": "+50% do valor do nível em duas habilidades secundárias (variando a cada turno). Turno 1: Corpo a corpo + Alvo único Turno 2: Distância + Alvo único Turno 3: Distância + Zona Turno 4: Corpo a corpo + Zona"
     },
     "source": {
       "chest": {
@@ -763,10 +763,10 @@
     "name": "Alternância II",
     "slots": "Relíquia",
     "effects": {
-      "en": "If the bearer inflicts damage in an element, they gain +10% Elemental Mastery in the other elements for the next spell.",
-      "es": "Si el portador inflige daños en un elemento, gana +10% dominio elemental en los otros elementos para el próximo hechizo.",
-      "fr": "Si le porteur inflige des dommages dans un élément, il gagne +10% Maîtrise Elémentaire dans les autres éléments pour le prochain sort.",
-      "pt": "Se o portador inflige danos em um elemento, ele ganha +10% de domínio elementar nos outros elementos para o próximo feitiço."
+      "en": "If the bearer inflicts damage in an element, they gain +10% Elemental Mastery in the other elements for the next spell. Only the first line of damage caused by the spell is taken into account.",
+      "es": "Si el portador inflige daños en un elemento, gana +10% dominio elemental en los otros elementos para el próximo hechizo. Solo se tiene en cuenta la primera línea de daños ocasionados por el hechizo.",
+      "fr": "Si le porteur inflige des dommages dans un élément, il gagne +10% Maîtrise Elémentaire dans les autres éléments pour le prochain sort. Uniquement la première ligne de dégâts occasionnée par le sort est prise en compte.",
+      "pt": "Se o portador inflige danos em um elemento, ele ganha +10% de domínio elementar nos outros elementos para o próximo feitiço. Apenas a primeira linha de danos causados pelo feitiço é levada em conta."
     },
     "source": {
       "chest": {
@@ -801,10 +801,10 @@
     "name": "Excesso",
     "slots": "Relíquia",
     "effects": {
-      "en": "-10% Damage inflicted",
-      "es": "-10% de daños infligidos",
-      "fr": "-10% Dommages infligés",
-      "pt": "-10% de Danos causados"
+      "en": "-10% Damage inflicted Every 10 spells cast, the state bearer gains 100% of Damage inflicted for the next spell. [pl]The spells cast must cost at least 1 AP to increment Excess. [pl]Once the state is at level 10, the next spell receives a Damage bonus, whether it does damage or not, regardless of its cost.",
+      "es": "-10% de daños infligidos Cada 10 hechizos lanzados, el portador del estado gana el 100% de los daños infligidos por el próximo hechizo. [pl]Los hechizos lanzados deben costar como mínimo 1 PA para incrementar Exceso. [pl]Una vez el estado nivel 10, el próximo hechizo recibe un bonus de daños, que efectúa o no daños, sea cual sea su coste.",
+      "fr": "-10% Dommages infligés Tous les 10 sorts lancés, le porteur de l'état gagne 100% Dommages infligés pour le prochain sort. [pl]Les sorts lancés doivent coûter au moins 1 PA pour incrémenter Excès. [pl]Une fois l'état niveau 10, le prochain sort bénéficie du bonus de Dommages, qu'il effectue des dommages ou non, quel que soit son coût.",
+      "pt": "-10% de Danos causados A cada 10 feitiços lançados, o portador do estado ganha 100% de danos infligidos para o feitiço seguinte. [pl]Os feitiços lançados devem custar pelo menos 1 PA para incrementar Excesso. [pl]Quando o estado chega ao nível 10, o próximo feitiço se beneficia do bônus de Danos mesmo se não causar danos, e independentemente do seu custo."
     },
     "source": {
       "chest": {
@@ -839,10 +839,10 @@
     "name": "Sangue do Talho",
     "slots": "Relíquia",
     "effects": {
-      "en": "In an uneven round:",
-      "es": "En una ronda impar:",
-      "fr": "Dans un tour de table impair :",
-      "pt": "Em uma rodada ímpar:"
+      "en": "In an uneven round: The bearer inflicts 30% more damage, and suffers 15% of the damage they inflict.",
+      "es": "En una ronda impar: El portador gana un 30% de daños infligidos y sufre un 15% de los daños que inflige.",
+      "fr": "Dans un tour de table impair : Le porteur gagne 30% Dommages infligés, et subit 15% des Dommages qu'il inflige.",
+      "pt": "Em uma rodada ímpar: O portador ganha 30% de danos infligidos e sofre 15% dos danos que inflige."
     },
     "source": {
       "chest": {
@@ -953,10 +953,10 @@
     "name": "Brisa",
     "slots": "Relíquia",
     "effects": {
-      "en": "25% to area-of-effect spell damage on the spell's direct target.",
-      "es": "25% a los daños de los hechizos de zona en el objetivo directo del hechizo.",
-      "fr": "25% aux dommages des sorts de zone sur la cible directe du sort.",
-      "pt": "25% aos danos dos feitiços de zona no alvo direto do feitiço."
+      "en": "25% to area-of-effect spell damage on the spell's direct target. -50% to area-of-effect spell damage on other targets.",
+      "es": "25% a los daños de los hechizos de zona en el objetivo directo del hechizo. -50% a los daños de los hechizos de zona en los demás objetivos.",
+      "fr": "25% aux dommages des sorts de zone sur la cible directe du sort. -50% aux dommages des sorts de zone sur les autres cibles.",
+      "pt": "25% aos danos dos feitiços de zona no alvo direto do feitiço. -50% aos danos dos feitiços de zona nos outros alvos."
     },
     "source": {
       "chest": {
@@ -1029,10 +1029,10 @@
     "name": "Nhé",
     "slots": "Relíquia",
     "effects": {
-      "en": "Even Turn: After using a WP-based spell, the state bearer regains 2 AP (max of 1/turn).",
-      "es": "Turno par: Al utilizar un hechizo de PW, el portador del estado recupera 2 PA (máx. 1/turno)",
-      "fr": "Tour pair : En utilisant un sort à PW, le porteur de l'état regagne 2 PA (max 1/tour)",
-      "pt": "Turno par: Ao utilizar um feitiço com custo em PW, o portador do estado recupera 2 PA (máx. 1/turno)"
+      "en": "Even Turn: After using a WP-based spell, the state bearer regains 2 AP (max of 1/turn). Odd Turn: After using a WP-based spell, the state bearer loses 2 AP (max 1/turn).",
+      "es": "Turno par: Al utilizar un hechizo de PW, el portador del estado recupera 2 PA (máx. 1/turno) Turno impar: Al utilizar un hechizo de PW, el portador del estado pierde 2 PA (máx. 1/turno).",
+      "fr": "Tour pair : En utilisant un sort à PW, le porteur de l'état regagne 2 PA (max 1/tour) Tour impair : En utilisant un sort à PW, le porteur de l'état perd 2 PA (max 1/tour)",
+      "pt": "Turno par: Ao utilizar um feitiço com custo em PW, o portador do estado recupera 2 PA (máx. 1/turno) Turno ímpar: Ao utilizar um feitiço com custo em PW, o portador do estado perde 2 PA (máx. 1/turno)"
     },
     "source": {
       "chest": {
@@ -1215,10 +1215,10 @@
     "slots": "GGG",
     "name": "Assolação",
     "effects": {
-      "en": "At start of fight:",
-      "es": "Al comienzo del combate:",
-      "fr": "En début de combat :",
-      "pt": "No início do combate:"
+      "en": "At start of fight: All Masteries and Resistances: +10",
+      "es": "Al comienzo del combate: Todos los dominios y resistencias: +10",
+      "fr": "En début de combat : Toutes les Maîtrises et Résistances : +10",
+      "pt": "No início do combate: Todos os domínios e resistências: +10"
     },
     "source": {
       "chest": {
@@ -1251,10 +1251,10 @@
     "slots": "RRG",
     "name": "Carnificina",
     "effects": {
-      "en": "When HP are above 90%:",
-      "es": "Cuando los PdV superan el 90%:",
-      "fr": "Lorsque les PV sont supérieurs à 90% :",
-      "pt": "Quando os PV estão acima de 90%:"
+      "en": "When HP are above 90%: [pl]40 Elemental Mastery",
+      "es": "Cuando los PdV superan el 90%: [pl]40 dominio elemental",
+      "fr": "Lorsque les PV sont supérieurs à 90% : [pl]40 Maîtrise Élémentaire",
+      "pt": "Quando os PV estão acima de 90%: [pl]40 de domínio elementar"
     },
     "source": {
       "chest": {
@@ -1359,10 +1359,10 @@
     "slots": "BBG",
     "name": "Evasão",
     "effects": {
-      "en": "At start of fight:",
-      "es": "Al comienzo del combate:",
-      "fr": "En début de combat :",
-      "pt": "No início do combate:"
+      "en": "At start of fight: 10% Block  (1 turn)",
+      "es": "Al comienzo del combate: 10% anticipación (1 turno)",
+      "fr": "En début de combat : 10% Parade (1 tour)",
+      "pt": "No início do combate: 10% de Parada (1 turno)"
     },
     "source": {
       "chest": {
@@ -1431,10 +1431,10 @@
     "slots": "GGB",
     "name": "Tenacidade",
     "effects": {
-      "en": "At end of turn, if the state bearer has 2 or more AP:",
-      "es": "Al final del turno, si el portador del estado tiene 2 PA o más:",
-      "fr": "En fin de tour, si le porteur de l'état a 2 PA ou plus :",
-      "pt": "Em fim de turno, se o portador do estado estiver com pelo menos 2 PA:"
+      "en": "At end of turn, if the state bearer has 2 or more AP: 25 Elemental Resistance  (1 turn)",
+      "es": "Al final del turno, si el portador del estado tiene 2 PA o más: 25 resistencia elemental (1 turno)",
+      "fr": "En fin de tour, si le porteur de l'état a 2 PA ou plus : 25 Résistance Élémentaire (1 tour)",
+      "pt": "Em fim de turno, se o portador do estado estiver com pelo menos 2 PA: 25 de resistência elementar (1 turno)"
     },
     "source": {
       "chest": {
@@ -1503,10 +1503,10 @@
     "slots": "RBR",
     "name": "Firmeza",
     "effects": {
-      "en": "After suffering a loss of 3 AP:",
-      "es": "Tras haber sufrido una pérdida de 3 PA:",
-      "fr": "Après avoir subi une perte de 3 PA :",
-      "pt": "Após sofrer uma perda de 3 PA:"
+      "en": "After suffering a loss of 3 AP: 20 Force of Will  (1 turn)",
+      "es": "Tras haber sufrido una pérdida de 3 PA: 20 voluntad (1 turno)",
+      "fr": "Après avoir subi une perte de 3 PA : 20 Volonté (1 tour)",
+      "pt": "Após sofrer uma perda de 3 PA: 20 de Vontade (1 turno)"
     },
     "source": {
       "chest": {
@@ -1539,10 +1539,10 @@
     "slots": "BRB",
     "name": "Leveza",
     "effects": {
-      "en": "After suffering a loss of 3 MP:",
-      "es": "Tras haber sufrido una pérdida de 3 PM:",
-      "fr": "Après avoir subi une perte de 3 PM :",
-      "pt": "Após sofrer uma perda de 3 PM:"
+      "en": "After suffering a loss of 3 MP: 20 Force of Will  (1 turn)",
+      "es": "Tras haber sufrido una pérdida de 3 PM: 20 voluntad (1 turno)",
+      "fr": "Après avoir subi une perte de 3 PM : 20 Volonté (1 tour)",
+      "pt": "Após sofrer uma perda de 3 PM: 20 de Vontade (1 turno)"
     },
     "source": {
       "chest": {
@@ -1575,10 +1575,10 @@
     "slots": "BGB",
     "name": "Topologia",
     "effects": {
-      "en": "At the start of combat:",
-      "es": "Al principio del combate:",
-      "fr": "Au début du combat :",
-      "pt": "No começo do combate:"
+      "en": "At the start of combat: Any Dodge by the state bearer is converted into Armor. Converted Dodge is lost.",
+      "es": "Al principio del combate: Toda la esquiva del portador del estado se convierte en armadura. La esquiva convertida se pierde.",
+      "fr": "Au début du combat : Toute l'Esquive du porteur de l'état est convertie en Armure. L'Esquive convertie est perdue.",
+      "pt": "No começo do combate: Toda a esquiva do portador do estado é convertida em armadura. A esquiva convertida se perde."
     },
     "source": {
       "chest": {
@@ -1611,10 +1611,10 @@
     "slots": "GRG",
     "name": "Reprovação",
     "effects": {
-      "en": "-20 Force of Will",
-      "es": "-20 voluntad",
-      "fr": "-20 Volonté",
-      "pt": "-20 de Vontade"
+      "en": "-20 Force of Will Reduces the next  AP loss suffered by 1 The effect is reapplied every turn",
+      "es": "-20 voluntad Reduce en 1 la próxima pérdida de PA sufrida El efecto se vuelve a aplicar en cada turno",
+      "fr": "-20 Volonté Réduit de 1 la prochaine perte de PA subie L'effet se réapplique à chaque tour",
+      "pt": "-20 de Vontade Reduz em 1 a próxima perda de PA sofrida O efeito se reaplica a cada turno"
     },
     "source": {
       "chest": {
@@ -1647,10 +1647,10 @@
     "slots": "GBG",
     "name": "Espanto",
     "effects": {
-      "en": "At start of fight:",
-      "es": "Al comienzo del combate:",
-      "fr": "En début de combat :",
-      "pt": "No início do combate:"
+      "en": "At start of fight: 10% Critical Hit  (1 turn)",
+      "es": "Al comienzo del combate: 10% golpe crítico (1 turno)",
+      "fr": "En début de combat : 10% Coup Critique (1 tour)",
+      "pt": "No início do combate: 10% de Golpe crítico (1 turno)"
     },
     "source": {
       "chest": {
@@ -1683,10 +1683,10 @@
     "slots": "RGB",
     "name": "Frenesi",
     "effects": {
-      "en": "-20% Damage inflicted",
-      "es": "-20% de daños infligidos",
-      "fr": "-20% Dommages infligés",
-      "pt": "-20% de Danos causados"
+      "en": "-20% Damage inflicted At start of turn: 10% damage inflicted per enemy hit in the previous turn.",
+      "es": "-20% de daños infligidos Al principio del turno: 10% de daños infligidos por enemigo alcanzado en el turno anterior.",
+      "fr": "-20% Dommages infligés En début de tour : 10% Dommages infligés par ennemi touché dans le tour précédent.",
+      "pt": "-20% de Danos causados No começo do turno: 10% dos danos infligidos por inimigo afetado no turno anterior."
     },
     "source": {
       "chest": {
@@ -1719,10 +1719,10 @@
     "slots": "RBG",
     "name": "Dimensionalidade",
     "effects": {
-      "en": "On the state bearer's first turn:",
-      "es": "En el primer turno del portador del estado:",
-      "fr": "Au premier tour du porteur de l'état :",
-      "pt": "No primeiro turno do portador do estado:"
+      "en": "On the state bearer's first turn: 1 WP (non-regenerable)",
+      "es": "En el primer turno del portador del estado: 1 PW (no regenerable)",
+      "fr": "Au premier tour du porteur de l'état : 1 PW (non-régénérable)",
+      "pt": "No primeiro turno do portador do estado: 1 de PW (não regenerativo)"
     },
     "source": {
       "chest": {
@@ -1830,10 +1830,10 @@
     "slots": "GRB",
     "name": "Resistência",
     "effects": {
-      "en": "-10% to characteristic penalties received.",
-      "es": "-10% a los malus de características recibidos.",
-      "fr": "-10% aux malus de caractéristiques reçus.",
-      "pt": "-10% às penalidades de características recebidas."
+      "en": "-10% to characteristic penalties received. Affects all characteristic penalties (Mastery, Resistances, Armor, Critical Hits, etc.) received in combat and cast by an entity other than the state bearer. The value is always rounded down.",
+      "es": "-10% a los malus de características recibidos. Afecta a todos los malus de características (dominios, resistencias, armadura, golpe crítico...) recibidos en combate, lanzados por una entidad que no sea el portador del estado. El valor se redondea siempre a la baja.",
+      "fr": "-10% aux malus de caractéristiques reçus. Concerne tous les malus de caractéristiques (Maîtrises, Résistances, Armure, Coup Critique...) reçus en combat, lancés par une entité autre que le porteur de l'état. La valeur est toujours arrondie à l'inférieur.",
+      "pt": "-10% às penalidades de características recebidas. Envolve todas as penalidades de características (domínios, resistências, armaduras, golpe crítico) recebidas em combate e lançadas por uma entidade que não o portador do estado. O valor é sempre arredondado para baixo."
     },
     "source": {
       "chest": {
@@ -1938,10 +1938,10 @@
     "slots": "BRR",
     "name": "Salvaguarda",
     "effects": {
-      "en": "At end of turn:",
-      "es": "Al final del turno:",
-      "fr": "En fin de tour :",
-      "pt": "No fim do turno:"
+      "en": "At end of turn: [pl]Unused AP are carried over to the next turn [pl]Max 1  PA",
+      "es": "Al final del turno: [pl]Los PA no utilizados pasan al turno siguiente [pl]Máx. 1 PA",
+      "fr": "En fin de tour : [pl]Les PA non utilisés sont transmis au tour suivant [pl]Max 1 PA",
+      "pt": "No fim do turno: [pl]Os PA não utilizados são transmitidos ao turno seguinte [pl]Máx. 1 PA"
     },
     "source": {
       "chest": {
@@ -2046,10 +2046,10 @@
     "slots": "RGG",
     "name": "Crítico Berserk",
     "effects": {
-      "en": "When HP are less than 50%:",
-      "es": "Cuando los PdV son inferiores al 50%:",
-      "fr": "Lorsque les PV sont inférieurs à 50% :",
-      "pt": "Quando os PV estão abaixo de 50%:"
+      "en": "When HP are less than 50%: [pl]10% Critical Hit",
+      "es": "Cuando los PdV son inferiores al 50%: [pl]10% golpe crítico",
+      "fr": "Lorsque les PV sont inférieurs à 50% : [pl]10% Coup Critique",
+      "pt": "Quando os PV estão abaixo de 50%: [pl]10% de Golpe crítico"
     },
     "source": {
       "chest": {
@@ -2154,10 +2154,10 @@
     "slots": "BBB",
     "name": "Bloqueio Berserk",
     "effects": {
-      "en": "When HP are less than 50%:",
-      "es": "Cuando los PdV son inferiores al 50%:",
-      "fr": "Lorsque les PV sont inférieurs à 50% :",
-      "pt": "Quando os PV estão abaixo de 50%:"
+      "en": "When HP are less than 50%: [pl]20% Lock",
+      "es": "Cuando los PdV son inferiores al 50%: [pl]20% Placaje",
+      "fr": "Lorsque les PV sont inférieurs à 50% : [pl]20% Tacle",
+      "pt": "Quando os PV estão abaixo de 50%: [pl]20% de bloqueio"
     },
     "source": {
       "chest": {
@@ -2190,10 +2190,10 @@
     "slots": "GGG",
     "name": "Assolação II",
     "effects": {
-      "en": "At start of fight:",
-      "es": "Al comienzo del combate:",
-      "fr": "En début de combat :",
-      "pt": "No início do combate:"
+      "en": "At start of fight: 3% Critical Hit, 3% Block, 3 Force of Will",
+      "es": "Al comienzo del combate: 3% golpe crítico, 3% anticipación, 3 voluntad",
+      "fr": "En début de combat : 3% Coup Critique, 3% Parade, 3 Volonté",
+      "pt": "No início do combate: 3% de Golpe crítico, 3% de Parada, 3 de Vontade"
     },
     "source": {
       "chest": {
@@ -2334,10 +2334,10 @@
     "slots": "BBG",
     "name": "Esquiva Berserk",
     "effects": {
-      "en": "When HP are less than 50%:",
-      "es": "Cuando los PdV son inferiores al 50%:",
-      "fr": "Lorsque les PV sont inférieurs à 50% :",
-      "pt": "Quando os PV estão abaixo de 50%:"
+      "en": "When HP are less than 50%: [pl]20% Dodge",
+      "es": "Cuando los PdV son inferiores al 50%: [pl]20% Esquiva",
+      "fr": "Lorsque les PV sont inférieurs à 50% : [pl]20% Esquive",
+      "pt": "Quando os PV estão abaixo de 50%: [pl]20% de esquiva"
     },
     "source": {
       "chest": {
@@ -2442,10 +2442,10 @@
     "slots": "RGR",
     "name": "Tenacidade II",
     "effects": {
-      "en": "At end of turn, if the state bearer has 6 or more AP:",
-      "es": "Al final del turno, si el portador del estado tiene 6 PA o más:",
-      "fr": "En fin de tour, si le porteur de l'état a 6 PA ou plus :",
-      "pt": "Em fim de turno, se o portador do estado estiver com pelo menos 6 PA:"
+      "en": "At end of turn, if the state bearer has 6 or more AP: 60 Elemental Resistance  (2 turns)",
+      "es": "Al final del turno, si el portador del estado tiene 6 PA o más: 60 resistencia elemental (2 turnos)",
+      "fr": "En fin de tour, si le porteur de l'état a 6 PA ou plus : 60 Résistance Élémentaire (2 tours)",
+      "pt": "Em fim de turno, se o portador do estado estiver com pelo menos 6 PA: 60 de resistência elementar (2 turnos)"
     },
     "source": {
       "chest": {
@@ -2478,10 +2478,10 @@
     "slots": "RBR",
     "name": "Firmeza II",
     "effects": {
-      "en": "After suffering a loss of 2 AP:",
-      "es": "Tras haber sufrido una pérdida de 2 PA:",
-      "fr": "Après avoir subi une perte de 2 PA :",
-      "pt": "Após sofrer uma perda de 2 PA:"
+      "en": "After suffering a loss of 2 AP: 10 Force of Will  (1 turn)",
+      "es": "Tras haber sufrido una pérdida de 2 PA: 10 voluntad (1 turno)",
+      "fr": "Après avoir subi une perte de 2 PA : 10 Volonté (1 tour)",
+      "pt": "Após sofrer uma perda de 2 PA: 10 de Vontade (1 turno)"
     },
     "source": {
       "chest": {
@@ -2514,10 +2514,10 @@
     "slots": "BRB",
     "name": "Leveza II",
     "effects": {
-      "en": "After suffering a loss of 2 MP:",
-      "es": "Tras haber sufrido una pérdida de 2 PM:",
-      "fr": "Après avoir subi une perte de 2 PM :",
-      "pt": "Após sofrer uma perda de 2 PM:"
+      "en": "After suffering a loss of 2 MP: 10 Force of Will  (1 turn)",
+      "es": "Tras haber sufrido una pérdida de 2 PM: 10 voluntad (1 turno)",
+      "fr": "Après avoir subi une perte de 2 PM : 10 Volonté (1 tour)",
+      "pt": "Após sofrer uma perda de 2 PM: 10 de Vontade (1 turno)"
     },
     "source": {
       "chest": {
@@ -2550,10 +2550,10 @@
     "slots": "BGB",
     "name": "Parada Berserk",
     "effects": {
-      "en": "When HP are less than 50%:",
-      "es": "Cuando los PdV son inferiores al 50%:",
-      "fr": "Lorsque les PV sont inférieurs à 50% :",
-      "pt": "Quando os PV estão abaixo de 50%:"
+      "en": "When HP are less than 50%: [pl]10% Block",
+      "es": "Cuando los PdV son inferiores al 50%: [pl]10% anticipación",
+      "fr": "Lorsque les PV sont inférieurs à 50% : [pl]10% Parade",
+      "pt": "Quando os PV estão abaixo de 50%: [pl]10% de Parada"
     },
     "source": {
       "chest": {
@@ -2658,10 +2658,10 @@
     "slots": "RGB",
     "name": "Frenesi II",
     "effects": {
-      "en": "-15% Damage inflicted",
-      "es": "-15% de daños infligidos",
-      "fr": "-15% Dommages infligés",
-      "pt": "-15% de Danos causados"
+      "en": "-15% Damage inflicted At start of turn: 5% damage inflicted per entity hit in the previous turn.",
+      "es": "-15% de daños infligidos Al principio del turno: 5% de daños infligidos por entidad alcanzada en el turno anterior.",
+      "fr": "-15% Dommages infligés En début de tour : 5% Dommages infligés par entité touchée dans le tour précédent.",
+      "pt": "-15% de Danos causados No começo do turno: 5% dos danos infligidos por entidade afetada no turno anterior."
     },
     "source": {
       "chest": {
@@ -2730,10 +2730,10 @@
     "slots": "BGR",
     "name": "Ciclotimia",
     "effects": {
-      "en": "Even Turns: 20 Force of Will",
-      "es": "Turno par: 20 voluntad",
-      "fr": "Tour pair : 20 Volonté",
-      "pt": "Turno par: 20 de Vontade"
+      "en": "Even Turns: 20 Force of Will Odd Turns: -20 Force of Will",
+      "es": "Turno par: 20 voluntad Turno impar: -20 voluntad",
+      "fr": "Tour pair : 20 Volonté Tour impair : -20 Volonté",
+      "pt": "Turno par: 20 de Vontade Turno ímpar: -20 de Vontade"
     },
     "source": {
       "chest": {
@@ -2805,10 +2805,10 @@
     "slots": "GRB",
     "name": "Resistência II",
     "effects": {
-      "en": "5% to characteristic bonuses received.",
-      "es": "5% a los bonus de características recibidos.",
-      "fr": "5% aux bonus de caractéristiques reçus.",
-      "pt": "5% aos bônus de características recebidos."
+      "en": "5% to characteristic bonuses received. Affects all characteristic bonuses (Mastery, Resistances, Armor) received in combat and cast by an entity other than the state bearer. The value is always rounded down.",
+      "es": "5% a los bonus de características recibidos. Afecta a todos los bonus de características (dominios, resistencias, armadura) recibidos en combate, lanzados por una entidad que no sea el portador del estado. El valor se redondea siempre a la baja.",
+      "fr": "5% aux bonus de caractéristiques reçus. Concerne tous les bonus de caractéristiques (Maîtrises, Résistances, Armure) reçus en combat, lancés par une entité autre que le porteur de l'état. La valeur est toujours arrondie à l'inférieur.",
+      "pt": "5% aos bônus de características recebidos. Envolve todos os bônus de características (domínios, resistências, armaduras) recebidos em combate e lançados por uma entidade que não o portador do estado. O valor é sempre arredondado para baixo."
     },
     "source": {
       "chest": {
@@ -2841,10 +2841,10 @@
     "slots": "GBR",
     "name": "Reprovação II",
     "effects": {
-      "en": "-20 Force of Will",
-      "es": "-20 voluntad",
-      "fr": "-20 Volonté",
-      "pt": "-20 de Vontade"
+      "en": "-20 Force of Will Reduces the next  MP loss suffered by 1 The effect is reapplied every turn",
+      "es": "-20 voluntad Reduce en 1 la próxima pérdida de PM sufrida El efecto se vuelve a aplicar en cada turno",
+      "fr": "-20 Volonté Réduit de 1 la prochaine perte de PM subie L'effet se réapplique à chaque tour",
+      "pt": "-20 de Vontade Reduz em 1 a próxima perda de PM sofrida O efeito se reaplica a cada turno"
     },
     "source": {
       "chest": {
@@ -2877,10 +2877,10 @@
     "slots": "GRR",
     "name": "Frenesi III",
     "effects": {
-      "en": "-15% Damage inflicted",
-      "es": "-15% de daños infligidos",
-      "fr": "-15% Dommages infligés",
-      "pt": "-15% de Danos causados"
+      "en": "-15% Damage inflicted At start of turn: 25% Damage inflicted  if a single enemy was hit the previous turn",
+      "es": "-15% de daños infligidos Al principio del turno: 25% de daños infligidos si un único enemigo ha sido alcanzado en el turno anterior",
+      "fr": "-15% Dommages infligés En début de tour : 25% Dommages infligés si un seul ennemi a été touché au tour précédent",
+      "pt": "-15% de Danos causados No começo do turno: 25% de Danos causados se só um inimigo tiver sido afetado no turno anterior"
     },
     "source": {
       "chest": {
@@ -3057,10 +3057,10 @@
     "slots": "BGG",
     "name": "Especialista em Golpes Críticos",
     "effects": {
-      "en": "At end of turn, if a critical hit was performed:",
-      "es": "Al final del turno, si se ha efectuado un golpe crítico:",
-      "fr": "En fin de tour, si un coup critique a été effectué :",
-      "pt": "Em fim de turno, se um golpe crítico tiver sido desferido:"
+      "en": "At end of turn, if a critical hit was performed: [pl][el0]  Heal: 4% of HP lost of the caster [ecnbi]",
+      "es": "Al final del turno, si se ha efectuado un golpe crítico: [pl]Cura [el0] : 4% de los PdV faltantes del lanzador [ecnbi]",
+      "fr": "En fin de tour, si un coup critique a été effectué : [pl]Soin [el0] : 4% des PV manquants du lanceur [ecnbi]",
+      "pt": "Em fim de turno, se um golpe crítico tiver sido desferido: [pl]Cura [el0] : 4% dos PV perdidos do lançador [ecnbi]"
     },
     "source": {
       "chest": {
@@ -3093,10 +3093,10 @@
     "slots": "RBB",
     "name": "Tolerância",
     "effects": {
-      "en": "At end of turn:",
-      "es": "Al final del turno:",
-      "fr": "En fin de tour :",
-      "pt": "No fim do turno:"
+      "en": "At end of turn: [pl]50% of unused MP are carried over to the next turn [pl]Max. 1 MP",
+      "es": "Al final del turno: [pl]50% de los PM no usados se pasan al turno siguiente [pl]Máx. 1 PM",
+      "fr": "En fin de tour : [pl]50% des PM non utilisés sont transmis au tour suivant [pl]Max 1 PM",
+      "pt": "No fim do turno: [pl]50% dos PM não utilizados são transferidos para o turno seguinte [pl]Máx. 1 PM"
     },
     "source": {
       "chest": {
@@ -3129,10 +3129,10 @@
     "slots": "GBB",
     "name": "Segredo da Vida",
     "effects": {
-      "en": "At start of fight:",
-      "es": "Al comienzo del combate:",
-      "fr": "En début de combat :",
-      "pt": "No início do combate:"
+      "en": "At start of fight: [pl]Reduces Healing Mastery to 0 [pl]10% Heals performed",
+      "es": "Al comienzo del combate: [pl]Reduce el dominio cura a 0 [pl]10% curas realizadas",
+      "fr": "En début de combat : [pl]Réduit la Maîtrise Soin à 0 [pl]10% Soins réalisés",
+      "pt": "No início do combate: [pl]Reduz a 0 o Domínio de Cura [pl]10% de Curas realizadas"
     },
     "source": {
       "chest": {
@@ -3165,10 +3165,10 @@
     "slots": "BBR",
     "name": "Integridade",
     "effects": {
-      "en": "When healing an ally, if the ally has less than 15% HP:",
-      "es": "Al curar a un aliado, si este aliado tiene menos del 15% de PdV:",
-      "fr": "En soignant un allié, si cet allié a moins de 15% PV :",
-      "pt": "Ao curar um aliado, se o aliado em questão tiver menos de 15% dos PV:"
+      "en": "When healing an ally, if the ally has less than 15% HP: [pl][el0]  Heal: 15% of HP max of the target [ecnbi]",
+      "es": "Al curar a un aliado, si este aliado tiene menos del 15% de PdV: [pl]Cura [el0] : 15% de los PdV máx. del objetivo [ecnbi]",
+      "fr": "En soignant un allié, si cet allié a moins de 15% PV : [pl]Soin [el0] : 15% des PV max de la cible [ecnbi]",
+      "pt": "Ao curar um aliado, se o aliado em questão tiver menos de 15% dos PV: [pl]Cura [el0] : 15% dos PV máx. do alvo [ecnbi]"
     },
     "source": {
       "chest": {
@@ -3201,10 +3201,10 @@
     "slots": "RBG",
     "name": "Lobo solitário",
     "effects": {
-      "en": "If there are no allies 1-4 cells from the bearer:",
-      "es": "Si no hay ningún aliado a 1-4 casillas del portador:",
-      "fr": "Si aucun allié n'est entre 1 et 4 cases du porteur :",
-      "pt": "Se nenhum aliado estiver entre 1 e 4 células do portador:"
+      "en": "If there are no allies 1-4 cells from the bearer: [pl]5% damage inflicted",
+      "es": "Si no hay ningún aliado a 1-4 casillas del portador: [pl]5% Daños infligidos",
+      "fr": "Si aucun allié n'est entre 1 et 4 cases du porteur : [pl]5% Dommages Infligés",
+      "pt": "Se nenhum aliado estiver entre 1 e 4 células do portador: [pl]5% Danos infligidos"
     },
     "source": {
       "chest": {
