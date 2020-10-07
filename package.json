@@ -4,7 +4,7 @@
   "description": "A web scrapper made in NodeJS",
   "main": "index.js",
   "scripts": {
-    "start": "npm run build && node dist/index.js",
+    "start": "npm run build && node dist/api/index.js",
     "scrap:subli": "npm run build && node dist/scrapSublimations.js",
     "get:files": "npm run build && node dist/generators/recipes/getFiles.js",
     "gen:recipes": "npm run build && node dist/generators/recipes/mountRecipes.js",
@@ -47,6 +47,7 @@
   },
   "dependencies": {
     "axios": "^0.20.0",
+    "express": "^4.17.1",
     "puppeteer": "^5.2.1"
   }
 }
